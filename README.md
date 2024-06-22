@@ -2,15 +2,14 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Thisara+Kaushan!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Lakshani+Perera!;&center=true&size=30">
   </a>
 </h1>
-<h1 align="center">Hi, I'm Thisara Kaushan</h1>
+<h1 align="center">Hi, I'm Lakshani Perera</h1>
 <br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/thisara-kaushan-de-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thisarakaushan" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_____t_k_s_h_a_n________/?igshid=ZDc4ODBmNjlmNQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisarakaushan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lakshani-sandamali-perera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshaniperera" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="center"> Languages and Tools </h2>
