@@ -23,31 +23,24 @@
 <br>
 <br>
 <h3 align="center">Visited Counts</h3>
-<p align="center"> <a href="https://profile-counter.glitch.me/thisarakaushan/count.svg" target="'_blank" rel="noreferrer"> <img src="https://profile-counter.glitch.me/thisarakaushan/count.svg" /> </a> </p>
+<p align="center"> <a href="https://profile-counter.glitch.me/lakshaniperera/count.svg" target="'_blank" rel="noreferrer"> <img src="https://profile-counter.glitch.me/lakshaniperera/count.svg" /> </a> </p>
 <br>
 <br>
 <br>
 
-<p align="center"><img text-align="center" src="https://github-readme-stats.vercel.app/api?username=thisarakaushan&theme=react&border=61dafb&hide_border=true" alt="thisarakaushan"  /></p>
+<p align="center"><img text-align="center" src="https://github-readme-stats.vercel.app/api?username=lakshaniperera&theme=react&border=61dafb&hide_border=true" alt="lakshaniperera"  /></p>
 
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thisarakaushan&theme=react&border=61dafb&hide_border=true" alt="thisarakaushan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshaniperera&theme=react&border=61dafb&hide_border=true" alt="lakshaniperera" /></p>
 
 <br>
  
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thisarakaushan&theme=react&border=61dafb&hide_border=true&layout=compact" alt="thisarakaushan" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshaniperera&theme=react&border=61dafb&hide_border=true&layout=compact" alt="lakshaniperera" /></p>
 
 <br>
 <br>
 
-<h2 align="center">Projects </h2>
-<br>
-<div width="100%" align="center">
-   <a align="right" href="https://github.com/thisarakaushan/Teachable-Machine" title="Teachable Machine"><img align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=thisarakaushan&repo=Teachable-Machine&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br>
-<br>
 <h2 align="center">Repositories </h2>
 <br>
 <div width="100%" align="center">
@@ -65,5 +58,5 @@
 </div>
 <br><br>
 <h4 align="center">
-  <a href="https://github.com/thisarakaushan?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/lakshaniperera?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
